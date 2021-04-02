@@ -11,6 +11,6 @@ client_scripts {
 
 server_scripts {
     'config.lua',
-    'server/main.lua',
+    'server/gvz-koko.lua',
     'server/s_weed.lua'
 }
